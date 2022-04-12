@@ -1,5 +1,5 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "shopwarelabs/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
     "homepage": "https://github.com/dompdf/dompdf",
@@ -53,5 +53,8 @@
         "branch-alias": {
             "dev-develop": "0.7-dev"
         }
+    },
+    "replace": {
+        "dompdf/dompdf": "*"
     }
 }
