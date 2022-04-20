@@ -55,6 +55,6 @@
         }
     },
     "replace": {
-        "dompdf/dompdf": "*"
+        "dompdf/dompdf": "v1.2.1"
     }
 }
